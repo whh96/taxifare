@@ -1,4 +1,4 @@
-# Manhattan Taxifare
+# Manhattan Taxifare. This project is from Datacamp.
 
 <h3> Using data manipulation, data visualization, trees, and random forest I was able to build a heat map that shows the highest rate of taxi trips and taxi fares.
 
